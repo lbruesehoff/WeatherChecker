@@ -61,8 +61,8 @@ a:hover{
   html, body {
     background: url("Images/weather.jpg") ;
     background-size: cover;
-    height: 100%;
-    background-repeat: repeat;
+    height: 115%;
+    background-repeat: no-repeat;
     
   }
 }
